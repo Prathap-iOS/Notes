@@ -16,6 +16,7 @@
 		305CB1D92AC2FE5C00139E89 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 305CB1D82AC2FE5C00139E89 /* DetailView.swift */; };
 		305CB1DB2AC3088F00139E89 /* CreditsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 305CB1DA2AC3088F00139E89 /* CreditsView.swift */; };
 		305CB1DE2AC3091900139E89 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 305CB1DD2AC3091900139E89 /* HeaderView.swift */; };
+		305CB1E02AC30C5500139E89 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 305CB1DF2AC30C5500139E89 /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		305CB1D82AC2FE5C00139E89 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		305CB1DA2AC3088F00139E89 /* CreditsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditsView.swift; sourceTree = "<group>"; };
 		305CB1DD2AC3091900139E89 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		305CB1DF2AC30C5500139E89 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				305CB1C42AC2EFF900139E89 /* ContentView.swift */,
 				305CB1D82AC2FE5C00139E89 /* DetailView.swift */,
 				305CB1DA2AC3088F00139E89 /* CreditsView.swift */,
+				305CB1DF2AC30C5500139E89 /* SettingsView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 				305CB1DE2AC3091900139E89 /* HeaderView.swift in Sources */,
 				305CB1D92AC2FE5C00139E89 /* DetailView.swift in Sources */,
 				305CB1DB2AC3088F00139E89 /* CreditsView.swift in Sources */,
+				305CB1E02AC30C5500139E89 /* SettingsView.swift in Sources */,
 				305CB1C32AC2EFF900139E89 /* NotesApp.swift in Sources */,
 				305CB1D72AC2F16400139E89 /* Note.swift in Sources */,
 			);
